@@ -4,8 +4,8 @@
 		
 # 🤖 Work:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepiratekumarno&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" height="240" width="440" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 <br/>
-
 # Social:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
